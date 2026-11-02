@@ -1,6 +1,6 @@
 # ITAOI2027
 
-https://NQU-ITAOI.github.io/ITAOI2027/
+https://nqu-itaoi.github.io/ITAOI2027/Web/
 
 目前網頁已經完成，剩下細微內容須調整
 
